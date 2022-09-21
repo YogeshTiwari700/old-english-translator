@@ -1,0 +1,36 @@
+.container {
+    margin: 2rem;
+    text-align: center;
+
+}
+
+#btn-translate {
+    display: block;
+    margin:2rem auto;
+    padding: 1rem;
+    cursor: pointer;
+    color: black;
+    font-weight: bold;
+    background-color: #F1C482;
+    border: circle;
+
+}
+#output-text {
+    font-size: xx-large;
+}
+
+textarea {
+    width: 40%;
+    height: 15vh;
+    display: block;
+    padding:1rem;
+    margin: 1rem auto;
+}
+
+.background-image {
+background-image: url(/images/old.jpg);
+background-size: cover;
+height: 100vh;
+
+}
+.footer.
